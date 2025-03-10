@@ -58,7 +58,6 @@ export default function Home() {
       </section>
       
       <footer>
-        <p>not a portfolio you wished to see, i dont want to prompt for styling my portfolio, will deploy my projects when they are functional for now see it on github</p>
         <div className="view-counter">
           This page has been viewed {viewCount} times
         </div>
