@@ -5,6 +5,8 @@ const techGroups = [
   {
     title: "Languages & Web Technologies",
     items: [
+      "Anchor",
+      "Pinoccgio",
       "JavaScript",
       "TypeScript",
       "Rust",
@@ -13,17 +15,21 @@ const techGroups = [
       "TailwindCSS",
       "Socket.io",
       "Vite",
+      "Solana"
     ],
   },
   {
     title: "Backend & Tools",
     items: [
+      "SurfPool",
       "NodeJS",
       "Express.js",
       "JWT",
       "Git",
       "GitHub",
       "Nginx",
+      "Mocha",
+      "MagicBlock",
     ],
   },
   {
