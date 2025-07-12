@@ -6,10 +6,10 @@ const techGroups = [
     title: "Languages & Web Technologies",
     items: [
       "Anchor",
-      "Pinoccgio",
+      "Pinocchio",
+      "Rust",
       "JavaScript",
       "TypeScript",
-      "Rust",
       "ReactJS",
       "NextJS",
       "TailwindCSS",
