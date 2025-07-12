@@ -7,7 +7,7 @@ export default function Experience() {
       {[
         ...experience,
         {
-          title: "Your Company's Next Engineer",
+          title: "Solana Enginneer",
           company: "Dream Team Inc.",
           date: "Let's chat and make it official",
         },

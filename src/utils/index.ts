@@ -15,9 +15,9 @@ export const socialLinks = [
 
 export const projects = [
   {
-    title: "Pinocchio Programs",
-    description: "Collection of basics Pinocchio Porgrams",
-    github: "https://github.com/raunit-dev/pinocchio-programs",
+    title: "PumpdotFun monitor",
+    description: "A real-time, high-performance Solana blockchain monitor that captures and parses all Pump.fun activity including token creation, buy, sell, and creator fee collection instruction using Yellowstone gRPC for efficient, low-latency streaming and advanced instruction decoding.",
+    github: "https://github.com/raunit-dev/YelloStone-gRPC-pump.fun",
   },
   {
     title: "StableCoin Program",
@@ -30,9 +30,9 @@ export const projects = [
     github: "https://github.com/raunit-dev/Metaverf",
   },
   {
-    title: "Staking Program",
-    description: "The project includes functionality to freeze NFTs during the staking process. When an NFT is staked, it is temporarily frozen to prevent any transfers or modifications until the user unstakes it. This ensures that the NFT remains secure while it is being staked.",
-    github: "https://github.com/raunit-dev/staking_nft_token",
+    title: "Solana-Indexer",
+    description: "This project is a blockchain indexer that connects to a Yellowstone gRPC stream to subscribe to real-time blockchain data. It's designed to be modular, allowing you to easily subscribe to different types of data streams.",
+    github: "https://github.com/raunit-dev/YelloStone-gRPC-Solana-indexer",
   },
 ];
 export const experience = [

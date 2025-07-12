@@ -15,15 +15,20 @@ export default function Personal() {
       link: "https://turbin3.org/", // Add your link here
     },
     {
-      title: "Cohort 3 by Harkirat Singh",
+      title: "Superdev Fellowship Solana",
       status: "Ongoing",
-      link: "https://harkirat.classx.co.in/", // Add your link here
+      link: "https://www.superdev.fun/", // Add your link here
     },
     {
       title: "BlueShift",
       status: "Ongoing",
       link: "https://blueshift.gg/#", // Add your link here
     },
+    {
+      title: "Ackee Solana",
+      status: "Ongoing",
+      link: "https://ackee.xyz/school-of-solana"
+    }
   ];
 
   return (
