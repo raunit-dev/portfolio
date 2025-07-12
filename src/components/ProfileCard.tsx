@@ -27,7 +27,7 @@ export default function ProfileCard() {
           />
           <div className="flex-1">
             <h2 className="font-semibold text-lg leading-tight">Raunit.</h2>
-            <p className="text-sm text-muted-foreground">@ig_candle</p>
+            <p className="text-sm text-muted-foreground">@ig_raunit</p>
           </div>
 
           <Button
@@ -46,9 +46,7 @@ export default function ProfileCard() {
       </CardHeader>
       <div className="flex flex-col m-4 ">
         <div>
-          <h1>
-            Building cool things on Solana.
-          </h1>
+          <h1>Focused on Solana. Obsessed with execution.</h1>
         </div>
         <div className="flex flex-col md:flex-row gap-4 md:items-center justify-between ">
           <div className="flex items-center gap-2">
