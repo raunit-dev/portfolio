@@ -37,8 +37,8 @@ export const projects = [
 ];
 export const experience = [
   {
-    title: "Looking for Internship",
-    company: "Maybe yours?",
-    date: "Send me the joining letter and I'll join right away",
+    title: "Solana Developer",
+    company: "ralli_bet",
+    date: "JUNE 2025 - ONGOING",
   },
 ];
