@@ -19,7 +19,7 @@ export default function ProfileCard() {
       <CardHeader>
         <div className="flex items-center gap-4">
           <Image
-            src="https://pbs.twimg.com/profile_images/1937982476368154624/PzW6qN6F_400x400.jpg"
+            src="https://pbs.twimg.com/profile_images/1949519716407508992/AoSnt2Pn_400x400.jpg"
             alt="Profile"
             width={48}
             height={48}
@@ -51,7 +51,7 @@ export default function ProfileCard() {
         <div className="flex flex-col md:flex-row gap-4 md:items-center justify-between ">
           <div className="flex items-center gap-2">
             <a
-              // href="https://drive.google.com/uc?export=download&id=1dmVV_zeU_XnA6Oev8IQDeTJihdjABtyE" //todo make your own resume
+              href="https://drive.google.com/file/d/12R-ulhV1gsJl5CD7lfEGbVc2s184w2FI/view?usp=drive_link" //todo make your own resume
               target="_blank"
               rel="noopener noreferrer"
             >

@@ -11,7 +11,7 @@ export default function Personal() {
     },
     {
       title: "Turbine Advanced Cohort",
-      status: "Ongoing",
+      status: "Graduated",
       link: "https://turbin3.org/", // Add your link here
     },
     {
@@ -24,11 +24,6 @@ export default function Personal() {
       status: "Ongoing",
       link: "https://blueshift.gg/#", // Add your link here
     },
-    {
-      title: "Ackee Solana",
-      status: "Ongoing",
-      link: "https://ackee.xyz/school-of-solana"
-    }
   ];
 
   return (
