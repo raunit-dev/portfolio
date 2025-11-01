@@ -1,8 +1,5 @@
 "use client";
 import { Card, CardContent } from "@/components/ui/card";
-import Link from "next/link";
-import Image from "next/image";
-import PushButton from "./os/pushbutton";
 
 export default function CodingProfile() {
   return (
