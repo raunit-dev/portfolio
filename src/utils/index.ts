@@ -1,12 +1,11 @@
 export const socialLinks = [
   { name: "GitHub", link: "https://github.com/raunit-dev" },
-  { name: "X", link: "https://x.com/ig_candle" },
+  { name: "X", link: "https://x.com/ig_raunit" },
   {
     name: "silicer_15",
-    link: " @silicer_15",
+    link: "https://t.me/silicer_15",
   },
   { name: "Gmail", link: "mailto:raunitjaiswal510@gmail.com" },
-
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/raunit-jaiswal-189131324/",
@@ -16,13 +15,13 @@ export const socialLinks = [
 export const projects = [
   {
     title: "PumpdotFun monitor",
-    description: "A high-performance Solana monitor for Pump.fun activity using Yellowstone gRPC for efficient streaming and instruction decoding.",
+    description: "A fast Solana Pump.fun tracker built with Yellowstone gRPC for real-time updates",
     github: "https://github.com/raunit-dev/YelloStone-gRPC-pump.fun",
   },
   {
-    title: "StableCoin Program",
-    description: "A decentralized stablecoin system on Solana using SPL tokens and SOL as collateral.",
-    github: "https://github.com/raunit-dev/stablecoin_collateral",
+    title: "Fraction Program",
+    description: "split any transaction into fraction",
+    github: "https://github.com/sendaifun/fraction",
   },
   {
     title: "Metaverf",
@@ -37,8 +36,13 @@ export const projects = [
 ];
 export const experience = [
   {
-    title: "Solana Developer",
-    company: "ralli_bet",
-    date: "JUNE 2025 - JULY 2025",
+    title: "Protocol Engineer Intern",
+    company: "SendAI",
+    date: "AUG 2025 - Present",
   },
+  {
+    title: "BlueShift Fellow",
+    company: "BlueShift",
+    date: "AUG 2025 - Forever",
+  }
 ];

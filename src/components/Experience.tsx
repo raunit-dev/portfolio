@@ -6,11 +6,6 @@ export default function Experience() {
     <Card className="col-span-3 row-span-3 flex flex-col gap-4 p-4 md:overflow-y-auto max-h-full">
       {[
         ...experience,
-        {
-          title: "Solana Enginneer",
-          company: "Dream Team Inc.",
-          date: "Let's chat and make it official",
-        },
       ].map((item, idx) => (
         <div
           key={idx}

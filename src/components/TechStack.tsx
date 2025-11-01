@@ -8,13 +8,6 @@ const techGroups = [
       "Anchor",
       "Pinocchio",
       "Rust",
-      "JavaScript",
-      "TypeScript",
-      "ReactJS",
-      "NextJS",
-      "TailwindCSS",
-      "Socket.io",
-      "Vite",
       "Solana"
     ],
   },
@@ -22,9 +15,7 @@ const techGroups = [
     title: "Backend & Tools",
     items: [
       "SurfPool",
-      "NodeJS",
-      "Express.js",
-      "JWT",
+      "Switchboard",
       "Git",
       "GitHub",
       "Nginx",
@@ -33,9 +24,14 @@ const techGroups = [
     ],
   },
   {
-    title: "Databases & Design",
-    items: ["PostgreSQL", "MongoDB", "MySQL", "Prisma ORM","Canva"],
-  },
+    title: "AI",
+    items: [
+      "Claude",
+      "Chatgpt",
+      "Grok",
+      "Myself",
+    ],
+  }
 ];
 
 export default function TechStack() {
